@@ -1,0 +1,40 @@
+--add15 Bianca 19.5 123 clue for me 200
+--list HUNT-001
+--add19 Luca 156 198.4 clue for Luca 300
+--list HUNT-001
+--add20 maria 13.5 192.2 has no clue 12a
+--list HUNT-001
+--add23 Bianca 13.44 14 one clue for me 134
+--list HUNT-001
+--view HUNT-001 20
+--remove_treasure HUNT-001 20
+--list HUNT-001
+--list HUNT-001
+--add 17 Mihai 12.34 14.55 hidden 400
+--list HUNT-001
+--list HUNT-001
+--add 24 Roxana 234.1 32.5 noclue 100
+--add 29 bianca 21.1 31.2 out 120
+--list HUNT-001
+--view HUNT-001 24
+--remove_treasure HUNT-001 24
+--remove_treasure HUNT-001 24
+--list HUNT-001
+--list HUNT-001
+--add 1 Bia 13 12 clue 10
+--add 10 bia 13 13 clue 10
+--remove_treasure HUNT-001 1
+--add 1 Bia 13 12 clue 10
+--remove_treasure HUNT-001 10
+--add 10 bia 13 13 clue 10
+--add 1 bia 13 13 clue 10
+--remove_treasure HUNT-001 10
+--add 29 bianca 21.1 31.2 out 120
+--list HUNT-001
+--add 1 bia 23.4 233 clue 111
+--remove_treasure HUNT-001 10
+--add 10 bia 212 232 erwefw 123
+--remove_treasure HUNT-001 1
+--list HUNT-001
+--add 20 Andrei 14.4 15.655 clue another 200
+--list HUNT-001
