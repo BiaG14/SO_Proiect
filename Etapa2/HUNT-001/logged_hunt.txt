@@ -1,0 +1,84 @@
+--add 
+--add 
+--add 
+--remove_treasure HUNT-001 1
+--remove_treasure HUNT-001 1
+--view HUNT-001 2
+--view HUNT-001 3
+--remove_treasure HUNT-001 2
+--view HUNT-001 1
+--add 
+--view HUNT-001 2
+--add 
+--add 
+--add  5ana23.544clue300
+--remove_treasure HUNT-001 4
+--view HUNT-001 2
+--add 4 mircea 23.5 55 clue 50 
+--view HUNT-001 1
+--view HUNT-001 2
+--view HUNT-001 3
+--view HUNT-001 4
+--view HUNT-001 5
+--view HUNT-001 ãn
+--view HUNT-001 ùn
+--view HUNT-001 Bk
+--view HUNT-001 HUNT-001
+--view HUNT-001 0k
+--view HUNT-001 >k
+--view HUNT-001 1
+--list HUNT-001
+--view HUNT-001 4
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 3
+--list HUNT-001
+--view HUNT-001 3
+--view HUNT-001 1
+--view HUNT-001 1
+--view HUNT-001 1
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 3
+--view HUNT-001 3
+--view HUNT-001 1
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 2
+--view HUNT-001 2
+--list HUNT-001
+--list HUNT-001
+--list HUNT-001
+--view HUNT-001 2
+--view HUNT-001 3
+--list HUNT-001
+--view HUNT-001 13
+--view HUNT-001 23
+--list HUNT-001
+--view HUNT-001 1
+--view HUNT-001 1
+--view HUNT-001 2
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 3
+--list HUNT-001
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 22
+--list HUNT-001
+--view HUNT-001 2
+--view HUNT-001 2
+--view HUNT-001 2
+--view HUNT-001 2
+--view HUNT-001 2
+--view HUNT-001 3
+--list HUNT-001
+--view HUNT-001 2
+--view HUNT-001 2
+--list HUNT-001
+--view HUNT-001 3
+--view HUNT-001 
+--list HUNT-001
+--view HUNT-001 2
