@@ -1,0 +1,3 @@
+--add 1 ana 21 32 clue 120 
+--add 2 mircea 45 56 clue 100 
+--view HUNT-002 1
